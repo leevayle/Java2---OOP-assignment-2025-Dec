@@ -2,3 +2,5 @@ in13/00055/20 - Leevayle Kinanga Kerindo
 Kisii University - Computer science
 Unit : Java 2 (comp 305)
 Year : 2025
+
+Github repo : https://github.com/leevayle/Java2---OOP-assignment-2025-Dec
